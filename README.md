@@ -5,6 +5,8 @@ An overall view of the intel-8085 datapath is available in the Internet. We have
 
 
 ## 8085 Datapath Diagram:
+![Untitled](https://github.com/AmirmahdiJoudi/Intel-8085/assets/79690242/3e4f052f-8eb4-4262-bbf4-50fa2206a9cd)
+
 ![Untitled](https://github.com/AmirmahdiJoudi/Intel-8085/assets/79690242/a991df61-843e-47ec-aee4-80b91201da71)
 
 
