@@ -12,6 +12,10 @@ An overall view of the intel-8085 datapath is available in the Internet. We have
 ![Untitled](https://github.com/AmirmahdiJoudi/Intel-8085/assets/79690242/336d970d-3b00-4ed7-ab69-5b3aedd586a1)
 
 
+## Implemented Instructions:
+![Untitled](https://github.com/AmirmahdiJoudi/Intel-8085/assets/79690242/21cd76a3-5541-4c04-a273-79a3fe6f6ca0)
+
+
 ## Testbench
 A memory unit is written. This unit prepares data 20 ns after readmem signal becomes 0. It reads from a hex file and writes data in a separate hex file.
 All instructions waveforms are checked by available waveforms in tutorialspoint website. When to issue signals and how the waveforms are now, are exracted from tutorialspoint. There are 2 hex files: mem.hex which includes all instructions and mem1.hex which is the result of executing mem.hex .
