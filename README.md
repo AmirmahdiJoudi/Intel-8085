@@ -1,7 +1,7 @@
 # Intel-8085
 VHDL Description of Intel 8085 Microprocessor
 -----------------------------------------------------------------------------------------------------------
-An overall view of the intel-8085 datapath is available in the Internet. We have used this view and datasheet to design datapath and controller. The design is written in Huffman Style.<br />
+An overall view of the intel-8085 datapath is available in the Internet. This view and datasheet are used to design datapath and controller. The design is written in Huffman Style.<br />
 
 
 ## 8085 Datapath Diagram:
